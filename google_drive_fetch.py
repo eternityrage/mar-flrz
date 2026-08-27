@@ -1,4 +1,4 @@
-"""
+﻿"""
 Google Drive Integration Module
 Fetch videos from a specific Google Drive folder for processing.
 Uses Google Drive API v3 with service account or OAuth credentials.
