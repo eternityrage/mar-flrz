@@ -240,7 +240,7 @@ def fetch_one_video_from_drive(allow_repost=False):
     # All videos are published - use weighted random selection for reposting
     if all_are_published:
         if len(videos) <= 1:
-            print("\n✅ Only one video available and already published. Skipping to avoid duplicate posting.")
+            print("\n[skip] Only one video available and already published. Skipping to avoid duplicate posting.")
             return None
         if not allow_repost:
             print("\n✅ All videos have already been published (no repost mode).")
