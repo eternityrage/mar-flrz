@@ -94,5 +94,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-f51a0b17-b8e0-414e-b73b-e72ebc29fa69.mp4",
+        "metadata": {
+            "title": "Live Beautifully in Soft Italian Romance \u2728 A Day of Style, Glow, and Travel-Inspired Moments",
+            "description": "Come breathe with me into this uplifting day where everyday beauty turns into a full-on mood\u2014think romantic Italian-inspired details, effortless elegance, and those small moments that make you feel truly yourself. In this short video for Marcella Fiorenzina, I\u2019m sharing a style reset: the look that feels like sunshine, the beauty steps that add an instant glow, and a travel-inspired mindset you can carry with you anywhere. If you\u2019ve ever needed a gentle reminder to slow down and appreciate your own rhythm, this is your sign\u2014because living beautifully isn\u2019t about perfection, it\u2019s about presence. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Marcella Fiorenzina for daily fashion, beauty, and lifestyle inspiration! #fashion #beauty #lifestyle #travel #style #romantic #photography #wellness #marcellafiorenzina",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
