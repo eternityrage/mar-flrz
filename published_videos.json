@@ -398,5 +398,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f51a0b17-b8e0-414e-b73b-e72ebc29fa69 (4).mp4",
+        "metadata": {
+            "title": "Italian Elegance: My Favorite Romantic Fashion",
+            "description": "Soft glam is my favorite kind of evening look - glowing skin, a pretty lip, and quiet confidence. Save this for date night! \ud83c\udf19 #beauty #makeup #glam #eveninglook #marcellafiorenzina",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
