@@ -766,5 +766,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f51a0b17-b8e0-414e-b73b-e72ebc29fa69 (4).mp4",
+        "metadata": {
+            "title": "Capture Your Everyday Romance \u2728 Marcella Fiorenzina\u2019s Italian-Inspired Lookbook in Motion",
+            "description": "Today\u2019s short video is a love letter to the beauty that\u2019s already around you\u2014soft light, effortless elegance, and that quiet \u201cI feel like myself\u201d energy when you get dressed with intention. I\u2019m sharing a photography-inspired moment where each detail feels curated but never forced: romantic Italian touches, a luminous beauty finish, and a lifestyle rhythm that makes everyday feel like a mini escape. Whether you\u2019re heading out for coffee, planning a weekend stroll, or simply finding calm in your routine, let this be your reminder to live beautifully and be beautifully you. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Marcella Fiorenzina for daily fashion, beauty, and lifestyle inspiration! #fashion #beauty #lifestyle #travel #style #romantic #photography #wellness #marcellafiorenzina",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
