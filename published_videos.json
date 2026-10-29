@@ -3006,5 +3006,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-f51a0b17-b8e0-414e-b73b-e72ebc29fa69.mp4",
+        "metadata": {
+            "title": "Beauty Rituals That Help Me Feel Lovely",
+            "description": "You don't need a fancy camera to capture beautiful moments - just light and attention. Try these simple tips today. Like if you love photography! \ud83d\udcf8 #photography #everydaymoments #inspiration #marcellafiorenzina",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
